@@ -1,0 +1,31 @@
+[Eagle]
+Version="07 02 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/Eagle/lbr/74xx-us.lbr"
+UsedLibrary="/Applications/Eagle/lbr/SparkFun/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Applications/Eagle/lbr/SparkFun/SparkFun-Connectors.lbr"
+UsedLibrary="/Applications/Eagle/lbr/Custom/custom.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/SparkFun/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/Custom/custom.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/SparkFun/SparkFun-Capacitors.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/SparkFun/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/SparkFun/SparkFun-Resistors.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/SparkFun/SparkFun-Electromechanical.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/SparkFun/SparkFun-Connectors.lbr"
+UsedLibrary="/Applications/EAGLE-7.2.0/lbr/Everything Else/microchip.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1984 64 3449 975"
+State=2
+Number=0
+
+[Desktop]
+Screen="3600 1200"
+Window="Win_1"
